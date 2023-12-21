@@ -7,7 +7,7 @@ import pickle
 import random
 from build_vocab import Vocabulary
 from data_loader import get_loader
-from backbone.swin384 import SwinTransformer
+from swin384 import SwinTransformer
 from transformersepov.models3 import Transformer
 from torchvision import transforms
 
