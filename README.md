@@ -1,4 +1,5 @@
 Paper link: CA-Captioner: A novel concentrated attention for image captioning. https://doi.org/10.1016/j.eswa.2024.123847
+
 citation:
 @article{YANG2024123847,
 title = {CA-Captioner: A novel concentrated attention for image captioning},
